@@ -1,24 +1,24 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Luna Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/light.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#E98D3D",
+    "light": "#E99A56",
+    "dark": "#CF7D36",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#F46F16",
+      "to": "#F4D116"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:contact@sarsburydarwell.com"
     }
   ],
   "topbarCtaButton": {
